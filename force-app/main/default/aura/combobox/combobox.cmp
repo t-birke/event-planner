@@ -1,0 +1,51 @@
+<aura:component >
+    <aura:attribute name="showMenuList" type="List" default="[]" />
+    <aura:attribute name="shiftId" type="String" />
+    <aura:registerEvent name="addStaff" type="c:addStaff"/>
+<div class="slds-combobox_container">
+	<div id="listbox-id-15" class="slds-dropdown slds-dropdown_length-with-icon-7 slds-dropdown_fluid" style="width:200px;max-width:200px;" role="listbox">
+		<ul class="slds-listbox slds-listbox_vertical" role="presentation">
+            <aura:iteration items="{! v.showMenuList }" var="p">
+			<li role="presentation" class="slds-listbox__item" >
+				<div data-name="{!p.Id}" class="slds-media slds-listbox__option slds-listbox__option_entity slds-listbox__option_has-meta" role="option" onclick="{!c.handleClick}">
+					<span class="slds-media__figure">
+						<lightning:icon iconName="standard:avatar" size="xxx-small" alternativeText="Staff"/>
+					</span>
+					<span class="slds-media__body">
+					<span class="slds-listbox__option-text slds-listbox__option-text_entity">{!p.Name}</span>
+					<span class="slds-listbox__option-meta slds-listbox__option-meta_entity">
+                        <aura:if isTrue="{! p.Industry }">
+                        	<span class="slds-text-color_success">Industry</span>
+                            <aura:set attribute="else">
+                            <span class="red">Industry</span>
+                            </aura:set>
+                        </aura:if>
+                        • 
+                        <aura:if isTrue="{! p.Cloud }">
+                        	<span class="slds-text-color_success">Cloud</span>
+                            <aura:set attribute="else">
+                            <span class="red">Cloud</span>
+                            </aura:set>
+                        </aura:if>
+                         • 
+                        <aura:if isTrue="{! p.ShiftsAlready == 0 }">
+	                        <span class="slds-text-color_success" data-name="{!p.Id}">Load</span>
+                        </aura:if>
+                        <aura:if isTrue="{! p.ShiftsAlready == 1 }">
+                            <span class="yellow" data-name="{!p.Id}">Load</span>
+                        </aura:if>
+                        <aura:if isTrue="{! p.ShiftsAlready == 2 }">
+                            <span class="red" data-name="{!p.Id}">Load</span>
+                        </aura:if>
+                        <aura:if isTrue="{! p.ShiftsAlready > 2 }">
+                        	<span class="deepred" data-name="{!p.Id}">Load</span>
+                        </aura:if>
+                        </span>
+					</span>
+				</div>
+			</li>
+            </aura:iteration>
+		</ul>
+	</div>
+</div>
+</aura:component>

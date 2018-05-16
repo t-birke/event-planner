@@ -1,0 +1,230 @@
+<aura:component implements="flexipage:availableForAllPageTypes" controller="CebitShiftController" access="global">
+    <aura:attribute name="type" type="String" default="SE]" />
+    <aura:attribute name="boothList" type="List" default="[]"/>
+    <aura:attribute name="allBooths" type="Map" default="{}"/>
+    <aura:attribute name="allStaff" type="Map" default="{}"/>
+    <aura:attribute name="allStaffShiftAssignments" type="Map" default="{}" />
+    <aura:attribute name="daysWithShifts" type="List" default="[]" />
+    <aura:attribute name="selectedDay" type="String" default="2018-06-12" />
+    <aura:attribute name="unsavedChanges" type="Boolean" default="false" />
+    <aura:attribute name="Changes" type="List" default="[]" />
+    <aura:attribute name="readyForToggleCheck" type="Boolean" default="false" />
+    <aura:attribute name="areaFilterOptions" type="List" default="[]" />
+    <aura:attribute name="sectionFilterOptions" type="List" default="[]" />
+    <aura:attribute name="areaFilterOptionsAll" type="List" default="[]" />
+    <aura:attribute name="sectionFilterOptionsAll" type="List" default="[]" />
+    <aura:attribute name="staffTypeFilterOptions" type="List" default="[]" />
+    <aura:attribute name="managerFilterOptions" type="List" />
+    <aura:attribute name="dateFilterOptions" type="List" default="[]" />
+    <aura:attribute name="managerFilter" type="List" default="all" />
+    <aura:attribute name="showMenu" type="String" default="" />
+    <aura:attribute name="showMenuList" type="List" default="[]" />
+    <aura:attribute name="showMenuListFiltered" type="List" default="[]" />
+    
+    <aura:handler name="init" value="{! this }" action="{! c.init }"/>
+    <aura:handler name="addStaff" event="c:addStaff" action="{!c.addStaff}"/>
+
+	<article class="slds-card">
+		<div class="slds-card__header slds-grid">
+            <header class="slds-media slds-media_center slds-has-flexi-truncate">
+                <div class="slds-media__figure">
+                    <span class="slds-icon_container slds-icon-standard-account" title="account">
+                        <lightning:icon iconName="custom:custom67" size="medium" alternativeText="Staff"/>
+                    <span class="slds-assistive-text">Assignment Grid</span>
+                    </span>
+                </div>
+                <div class="slds-media__body">
+                    <h2 class="slds-card__header-title">
+                        <a href="javascript:void(0);" class="slds-card__header-link slds-truncate" title="Card Header">
+                            <span class="slds-text-heading_small">Assignment Grid</span>
+                        </a>
+                    </h2>
+                </div>
+                <div class="slds-no-flex">
+                    <button class="slds-button slds-button_neutral">New</button>
+                </div>
+            </header>
+		</div>
+		<div class="slds-card__body">
+            <aura:if isTrue="{!v.unsavedChanges}">
+                <div class="slds-docked-form-footer">
+                    <div class="slds-grid slds-grid_align-center slds-grid_vertical-align-center slds-gutters wide">
+                        <div class="slds-col slds-size_1-of-3">
+                            <ui:message title="Warning" severity="warning" closable="true">
+                                Changes to Shifts are not yet saved. You have to click the Save button.
+                            </ui:message>
+                        </div>
+                        <div class="slds-col slds-size_1-of-3">
+                            <button type="button" class="slds-button slds-button_neutral" onclick="{!c.cancel}">Cancel</button>
+                            <button type="button" class="slds-button slds-button_brand" onclick="{!c.saveChanges}">Save</button>
+                        </div>
+                    </div>
+
+
+                </div>
+            </aura:if>
+            <div class="slds-grid slds-gutters slds-m-around_medium slds-grid_vertical-align-end">
+            	<div class="slds-col slds-size_1of6">
+                        <lightning:combobox aura:id="selectArea" name="area" label="Filter by Area"
+                              placeholder="all"
+                              value="all"
+                              onchange="{!c.filter}"
+                              options="{!v.areaFilterOptions}"/>
+                </div>
+                <div class="slds-col slds-size_1of6">
+                        <lightning:combobox aura:id="selectSection" name="section" label="Filter by Section"
+                              placeholder="all"
+                              value="all"
+                              onchange="{!c.filter}"
+                              options="{!v.sectionFilterOptions}"/>
+                </div>
+                <div class="slds-col slds-size_1of6">
+                        <lightning:combobox aura:id="selectStaffType" name="type" label="Assign Shifts for Role"
+                              placeholder="SE"
+                              value="SE"
+                              options="{!v.staffTypeFilterOptions}"/>
+                </div>
+                <div class="slds-col slds-size_1of6">
+                        <lightning:combobox aura:id="selectDate" name="date" label="Assign Shifts for Day"
+                              placeholder="Tuesday (12.06.2018)"
+                              value="2018-06-12"
+                              onchange="{!c.setVariable}"
+                              options="{!v.dateFilterOptions}"/>
+                </div>
+                <div class="slds-col slds-size_1of6">
+                        <lightning:combobox aura:id="selectManager" name="manager" label="Assign for Manager"
+                              placeholder="all"
+                              value="all"
+                              onchange="{!c.setManagerFilter}"
+                              options="{!v.managerFilterOptions}"/>
+                </div>
+            </div>
+            
+            <div class="slds-table_edit_container slds-is-relative">
+                <table class="slds-table slds-table_bordered slds-table_fixed-layout slds-no-cell-focus slds-table_edit" role="grid" style="width: 100%;">
+                    <thead>
+                        <tr class="slds-line-height_reset">
+                            <th aria-sort="none" class="slds-text-title_caps thin" aria-label="Area" scope="col" >
+                                <div class="slds-th__action">
+                                <span class="slds-truncate" title="Area">Area</span>
+                                </div>
+                            </th>
+                            <th aria-sort="none" class="slds-text-title_caps" aria-label="Section" scope="col" >
+                                <div class="slds-th__action">
+                                <span class="slds-truncate" title="Section">Section</span>
+                                </div>
+                            </th>
+                            <th aria-sort="none" class="slds-text-title_caps superthin" aria-label="Booth" scope="col" >
+                                <div class="slds-th__action">
+                                <span class="slds-truncate" title="Booth">Id</span>
+                                </div>
+                            </th>
+                            <th aria-sort="none" class="slds-text-title_caps" aria-label="Booth" scope="col" >
+                                <div class="slds-th__action">
+                                <span class="slds-truncate" title="Booth">Booth</span>
+                                </div>
+                            </th>
+                            <th aria-sort="none" class="slds-text-title_caps thin" aria-label="Industry" scope="col" >
+                                <div class="slds-th__action">
+                                <span class="slds-truncate" title="Industry">Industry</span>
+                                </div>
+                            </th>
+                            <th aria-sort="none" class="slds-text-title_caps thin" aria-label="Cloud" scope="col" >
+                                <div class="slds-th__action">
+                                <span class="slds-truncate" title="Cloud">Cloud</span>
+                                </div>
+                            </th>
+                            <aura:iteration items="{!v.daysWithShifts}" var="day">
+                                <aura:if isTrue="{!day.date == v.selectedDay}">
+                                    <aura:iteration items="{!day.shifts}" var="shift">
+										<th aria-sort="none" class="slds-text-title_caps" aria-label="Shift" scope="col" >
+                                            <div class="slds-th__action">
+                                            	<span class="slds-truncate" title="{!shift.start + ' - ' + shift.end }">{!shift.start + ' - ' + shift.end }</span>
+                                            </div>
+                                        </th>
+                                    </aura:iteration>
+                                </aura:if>
+                            </aura:iteration>
+                        </tr>
+                    </thead>
+                    <tbody aura:id="ShiftAssignmentGridSpinner">
+                        <tr>
+                            <td colspan="6" height="300px">
+                                <lightning:spinner variant="brand" size="medium"/>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tbody aura:id="ShiftAssignmentGrid" class="slds-hide">
+                    <aura:iteration items="{!v.boothList}" var="b">
+                    <tr class="slds-hint-parent">
+                        <td class="slds-cell-edit" role="gridcell">
+                            <span class="slds-grid slds-grid_align-spread slds-truncate">
+                                {!b.Section__r.Area__r.Name}
+                            </span>
+                        </td>
+                        <td class="slds-cell-edit" role="gridcell">
+                            <span class="slds-grid slds-grid_align-spread slds-truncate">
+                                {!b.Section__r.Name}
+                            </span>
+                        </td>
+                        <td class="slds-cell-edit" role="gridcell">
+                            <span class="slds-grid slds-grid_align-spread">
+                                {!b.Name}
+                            </span>
+                        </td>
+                        <th class="slds-cell-edit" scope="row" tabindex="0">
+                            <span class="slds-grid slds-grid_align-spread">
+                                <a href="{!'https://event-planning-pilot.lightning.force.com/one/one.app#/sObject/'+ b.Id +'/view'}" class="slds-truncate" id="link-01" tabindex="-1" title="{!b.Name}">{!b.Booth_Name__c}</a>
+                            </span>
+                        </th>
+                        <td class="slds-cell-edit" role="gridcell">
+                            <span class="slds-grid slds-grid_align-spread">
+                                {!b.Industry__c}
+                            </span>
+                        </td>
+                        <td class="slds-cell-edit" role="gridcell">
+                            <span class="slds-grid slds-grid_align-spread">
+                                {!b.Cloud_Focus__c}
+                            </span>
+                        </td>
+                        <aura:iteration items="{!b.Shifts__r}" var="shift">
+                            <aura:if isTrue="{!shift.Date__c == v.selectedDay}">
+                                <td class="slds-cell-edit" role="gridcell">
+                                    <span class="slds-grid slds-grid_align-spread">
+                                        <aura:if isTrue="{!b.SE}">
+                                            <aura:if isTrue="{!shift.SE}">
+                                                <span class="slds-pill slds-pill_link">
+                                                    <span class="slds-pill__icon_container">
+                                                        <lightning:icon iconName="standard:avatar" size="xxx-small" alternativeText="Staff"/>
+                                                    </span>
+                                                    <a href="{!'https://event-planning-pilot.lightning.force.com/one/one.app#/sObject/'+ shift.SE.Id +'/view'}" class="slds-pill__action" title="{!shift.SE.Name}">
+                                                    	<span class="slds-pill__label">{!shift.SE.Name}</span>
+                                                    </a>
+                                                    <lightning:buttonIcon iconName="utility:close" variant="bare" alternativeText="Remove" value="{! shift.SE.Id + ';' + shift.Id }" onclick="{! c.removeStaff }"/>
+                                                </span>                            	
+                                            <aura:set attribute="else">
+                                                <!--<lightning:input onfocus="{! c.showOptions }" type="search" label="Search" placeholder="select" variant="label-hidden" name="{!shift.Id}" /> //-->
+                                                <div class="slds-form-element">
+                                                    <div class="slds-form-element__control" aura:id="selectStaff">
+                                                        <input aura:id="staffInput" type="text" class="slds-input" placeholder="select" name="{!shift.Id}" data-booth="{! b.Id }" onfocus="{! c.showOptions }" onblur="{! c.hideOptions }" oninput="{! c.typeFilter }" />
+                                                        <aura:if isTrue="{! v.showMenu == shift.Id}">
+                                                            <c:combobox showMenuList="{! v.showMenuListFiltered}" shiftId="{! shift.Id }"/>
+                                                        </aura:if>
+                                                    </div>
+                                                </div>
+                                            </aura:set>
+                                            </aura:if>
+                                        
+                                        </aura:if>
+                                    </span>
+                                </td>
+                            </aura:if>
+                        </aura:iteration>
+                    </tr>
+                    </aura:iteration>
+                    </tbody>
+                </table>
+			</div>
+        </div>
+	</article>
+</aura:component>

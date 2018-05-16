@@ -1,0 +1,12 @@
+.THIS .slds-checkbox_faux {
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    font-size: 80%;
+}
+.THIS .slds-checkbox_button [type=checkbox]:checked+.slds-checkbox_button__label {
+    background-color: #d4504c;
+}
+
+.THIS .wide {
+    width: 100%;
+}

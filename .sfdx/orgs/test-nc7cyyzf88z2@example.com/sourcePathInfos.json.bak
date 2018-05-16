@@ -1,0 +1,2072 @@
+[
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526457908517,
+            "changeTime": 1526457908517,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526457908517,
+            "changeTime": 1526457908517,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1526458563884,
+            "changeTime": 1526458563884,
+            "contentHash": "bbb16bfe877a4620d6874dd83010c9f59df95d2e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526458563724,
+            "changeTime": 1526458563724,
+            "contentHash": "a663db18c58b65504cfa5c311b7917d99488dc4e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/applications/Cebit_Shift_Planner.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/applications/Cebit_Shift_Planner.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 729,
+            "modifiedTime": 1526458563724,
+            "changeTime": 1526458563724,
+            "contentHash": "7c59fce5d96ea0aec104a7434997df521ee8d686",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1526458563928,
+            "changeTime": 1526458563928,
+            "contentHash": "73db6baa96ac75f55aa437e1c474a15f9fab10fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1526458563904,
+            "changeTime": 1526458563904,
+            "contentHash": "eae186119c2775a225679079e42eb25bd3ebc6e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview/CebitIndustryOverview.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview/CebitIndustryOverview.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6812,
+            "modifiedTime": 1526458563899,
+            "changeTime": 1526458563899,
+            "contentHash": "448feaa2220c7fa9cc20e8fcb2bf286975fcbc46",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview/CebitIndustryOverview.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview/CebitIndustryOverview.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1526458563898,
+            "changeTime": 1526458563898,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview/CebitIndustryOverview.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview/CebitIndustryOverview.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 32,
+            "modifiedTime": 1526458563901,
+            "changeTime": 1526458563901,
+            "contentHash": "a958752878765232208a365fd06c7dde9a119bcc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview/CebitIndustryOverviewController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview/CebitIndustryOverviewController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4288,
+            "modifiedTime": 1526458563903,
+            "changeTime": 1526458563903,
+            "contentHash": "ac541b15fdbe8f94264ab9ed483a8ce502dad5f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview/CebitIndustryOverviewHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitIndustryOverview/CebitIndustryOverviewHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3213,
+            "modifiedTime": 1526458563904,
+            "changeTime": 1526458563904,
+            "contentHash": "d9803304f96dc71932e7a81802dbcf8b3e6b238a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1526458563909,
+            "changeTime": 1526458563909,
+            "contentHash": "c5a8e77e375dfc0f32bf586c74a64ca404974861",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment/CebitShiftAssignment.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment/CebitShiftAssignment.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 14701,
+            "modifiedTime": 1526458563907,
+            "changeTime": 1526458563907,
+            "contentHash": "fb7c5469b8572f9f6eb656e979379455b42e3698",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment/CebitShiftAssignment.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment/CebitShiftAssignment.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1526458563906,
+            "changeTime": 1526458563906,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment/CebitShiftAssignment.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment/CebitShiftAssignment.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 67,
+            "modifiedTime": 1526458563908,
+            "changeTime": 1526458563908,
+            "contentHash": "6bee064df2abac69d6129a36123ff0ea75075a9a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment/CebitShiftAssignmentController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment/CebitShiftAssignmentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9977,
+            "modifiedTime": 1526458563908,
+            "changeTime": 1526458563908,
+            "contentHash": "e5daa9c76ca86c6c8d067397711fecb9122cc150",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment/CebitShiftAssignmentHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitShiftAssignment/CebitShiftAssignmentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4687,
+            "modifiedTime": 1526458563909,
+            "changeTime": 1526458563909,
+            "contentHash": "d4c8143935985a01e30b360bf3b58a52b99b91c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1526458563914,
+            "changeTime": 1526458563914,
+            "contentHash": "207e32c763b8301ffdef8aca320d6ce560d010c8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview/CebitSkillOverview.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview/CebitSkillOverview.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6860,
+            "modifiedTime": 1526458563911,
+            "changeTime": 1526458563911,
+            "contentHash": "4f522fd95b143d59c30d0b1536b7c8479ec6908a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview/CebitSkillOverview.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview/CebitSkillOverview.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1526458563910,
+            "changeTime": 1526458563910,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview/CebitSkillOverview.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview/CebitSkillOverview.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 32,
+            "modifiedTime": 1526458563913,
+            "changeTime": 1526458563913,
+            "contentHash": "a958752878765232208a365fd06c7dde9a119bcc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview/CebitSkillOverviewController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview/CebitSkillOverviewController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4303,
+            "modifiedTime": 1526458563914,
+            "changeTime": 1526458563914,
+            "contentHash": "537295def9be2231c95bcb701fd8a936f5b7a2ee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview/CebitSkillOverviewHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitSkillOverview/CebitSkillOverviewHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3171,
+            "modifiedTime": 1526458563915,
+            "changeTime": 1526458563915,
+            "contentHash": "0de93563fc177060834c1645c1b24365e9143eae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1526458563919,
+            "changeTime": 1526458563919,
+            "contentHash": "fabdea45870d07d51e34edf3a8010dee3681bc54",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid/CebitStaffGrid.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid/CebitStaffGrid.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 19272,
+            "modifiedTime": 1526458563917,
+            "changeTime": 1526458563917,
+            "contentHash": "cf39c99ba24e5ee044ad0fe527cd98c12a15dac6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid/CebitStaffGrid.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid/CebitStaffGrid.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1526458563916,
+            "changeTime": 1526458563916,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid/CebitStaffGrid.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid/CebitStaffGrid.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 252,
+            "modifiedTime": 1526458563918,
+            "changeTime": 1526458563918,
+            "contentHash": "661ec81fdc65764ffafb5cf4babac580ff8f5691",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid/CebitStaffGridController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid/CebitStaffGridController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5002,
+            "modifiedTime": 1526458563919,
+            "changeTime": 1526458563919,
+            "contentHash": "d5c331d93b9e65462e269fbc0a23f6e42836b91a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid/CebitStaffGridHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffGrid/CebitStaffGridHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3041,
+            "modifiedTime": 1526458563919,
+            "changeTime": 1526458563919,
+            "contentHash": "b0f9f224c0dbc5d5b587f5a6855a2323f5dd3b28",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingHome",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingHome",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1526458563922,
+            "changeTime": 1526458563922,
+            "contentHash": "3259f93b09b1c36e5adb470fc65f531b0f0f9e45",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingHome/CebitStaffingHome.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingHome/CebitStaffingHome.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 633,
+            "modifiedTime": 1526458563921,
+            "changeTime": 1526458563921,
+            "contentHash": "ee73c33159c28118421ab5a7150c4d0732303338",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingHome/CebitStaffingHome.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingHome/CebitStaffingHome.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1526458563920,
+            "changeTime": 1526458563920,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingHome/CebitStaffingHomeController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingHome/CebitStaffingHomeController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 80,
+            "modifiedTime": 1526458563921,
+            "changeTime": 1526458563921,
+            "contentHash": "715b8d98ac73561c659f5d93dcc7ef5be102fb40",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingHome/CebitStaffingHomeHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingHome/CebitStaffingHomeHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1056,
+            "modifiedTime": 1526458563922,
+            "changeTime": 1526458563922,
+            "contentHash": "b895b8e2e8b3c091eeee536e09ed7f5324c3a997",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingOverview",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingOverview",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1526458563924,
+            "changeTime": 1526458563924,
+            "contentHash": "489b40869fdfcb26ab6c6865c4a1742be4896bd8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingOverview/CebitStaffingOverview.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingOverview/CebitStaffingOverview.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1526458563925,
+            "changeTime": 1526458563925,
+            "contentHash": "13c9ee1a53e591b0c038bfade9c4a403ee2c8ad4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingOverview/CebitStaffingOverview.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/CebitStaffingOverview/CebitStaffingOverview.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1526458563924,
+            "changeTime": 1526458563924,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/addStaff",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/addStaff",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1526458563926,
+            "changeTime": 1526458563926,
+            "contentHash": "1c238c0237d74af4baad839b0c714ac854964f51",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/addStaff/addStaff.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/addStaff/addStaff.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 142,
+            "modifiedTime": 1526458563927,
+            "changeTime": 1526458563927,
+            "contentHash": "0a30f5289566f1acea8fe98780967bf527fe0b7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/addStaff/addStaff.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/addStaff/addStaff.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1526458563926,
+            "changeTime": 1526458563926,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/combobox",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/combobox",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1526458563930,
+            "changeTime": 1526458563930,
+            "contentHash": "02c861c749ea38cf1b9f7403508f84b59fde4de8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/combobox/combobox.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/combobox/combobox.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2699,
+            "modifiedTime": 1526458563929,
+            "changeTime": 1526458563929,
+            "contentHash": "903bcd176554b3fefff1d05b2826f7702b65e959",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/combobox/combobox.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/combobox/combobox.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1526458563928,
+            "changeTime": 1526458563928,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/combobox/combobox.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/combobox/combobox.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 188,
+            "modifiedTime": 1526458563930,
+            "changeTime": 1526458563930,
+            "contentHash": "f001c6b05b2614d11016da83ca4be73b4a45392c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/combobox/comboboxController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/aura/combobox/comboboxController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 195,
+            "modifiedTime": 1526458563931,
+            "changeTime": 1526458563931,
+            "contentHash": "c8b3674b1a06290041b83676853e80245a77aa34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1526458563745,
+            "changeTime": 1526458563745,
+            "contentHash": "6b03b8e11532134a5aa805ff077be41d9854695b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitShiftController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitShiftController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1614,
+            "modifiedTime": 1526458563732,
+            "changeTime": 1526458563732,
+            "contentHash": "2e22329d708f73d24fd19ad2915a48e0f1bb53e9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitShiftController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitShiftController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1526458563729,
+            "changeTime": 1526458563729,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitShiftWrapper.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitShiftWrapper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1118,
+            "modifiedTime": 1526458563736,
+            "changeTime": 1526458563736,
+            "contentHash": "176bac6399227d4b265e097ec2c7de4857e940b6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitShiftWrapper.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitShiftWrapper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1526458563735,
+            "changeTime": 1526458563735,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitStaffController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitStaffController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 758,
+            "modifiedTime": 1526458563741,
+            "changeTime": 1526458563741,
+            "contentHash": "3a3427de95bbe68d46365cbfce09135d4b02a6c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitStaffController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitStaffController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1526458563739,
+            "changeTime": 1526458563739,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitStaffWrapper.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitStaffWrapper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1515,
+            "modifiedTime": 1526458563745,
+            "changeTime": 1526458563745,
+            "contentHash": "a8e1bca2a84db28fa400119895235ef0adde26be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitStaffWrapper.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/classes/CebitStaffWrapper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1526458563744,
+            "changeTime": 1526458563744,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/contentassets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1526458563750,
+            "changeTime": 1526458563750,
+            "contentHash": "e61b08700303594c396383d875c6d76fcf886244",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/contentassets/CEBITLogowei.asset",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/contentassets/CEBITLogowei.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9094,
+            "modifiedTime": 1526458563751,
+            "changeTime": 1526458563751,
+            "contentHash": "b304d38b979258cd8f313423091092a13624fe83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/contentassets/CEBITLogowei.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/contentassets/CEBITLogowei.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 478,
+            "modifiedTime": 1526458563750,
+            "changeTime": 1526458563750,
+            "contentHash": "c2712647d5e1fa2221648c193125c8369c3bc560",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1526458563757,
+            "changeTime": 1526458563757,
+            "contentHash": "a9aa37066284005c99c0bc97f530cb4efe1663b6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/flexipages/Cebit_Shift_Planner_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/flexipages/Cebit_Shift_Planner_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 374,
+            "modifiedTime": 1526458563755,
+            "changeTime": 1526458563755,
+            "contentHash": "4bb59cfb6d349a14282f8979321f7f92e5deb77d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/flexipages/shift_planner.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/flexipages/shift_planner.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 469,
+            "modifiedTime": 1526458563757,
+            "changeTime": 1526458563757,
+            "contentHash": "0d7a18054d3f9baf57185a0d77c77f27813fac06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/globalValueSets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/globalValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1526458563766,
+            "changeTime": 1526458563766,
+            "contentHash": "5650abe356e2b8baa7bcaba32e4c225544655732",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/globalValueSets/Function.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/globalValueSets/Function.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1356,
+            "modifiedTime": 1526458563760,
+            "changeTime": 1526458563760,
+            "contentHash": "461d8ec37c07aa93a9dd60958b19a5d611911d14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/globalValueSets/Industry.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/globalValueSets/Industry.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1151,
+            "modifiedTime": 1526458563764,
+            "changeTime": 1526458563764,
+            "contentHash": "ffe9ee1f3c7e0e27965788fb7ba44c1631533267",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/globalValueSets/Skill.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/globalValueSets/Skill.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1047,
+            "modifiedTime": 1526458563766,
+            "changeTime": 1526458563766,
+            "contentHash": "fb46be83109605050afc3d0bdba58d971b2c5010",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1526458563787,
+            "changeTime": 1526458563787,
+            "contentHash": "2a342d9879f954300893bd34a232c2816cacabfd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Area__c-Area Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Area__c-Area Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1526458563769,
+            "changeTime": 1526458563769,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Booth__c-Pod Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Booth__c-Pod Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3535,
+            "modifiedTime": 1526458563772,
+            "changeTime": 1526458563772,
+            "contentHash": "54d373b769cd1bb03141f22f170397d01060f203",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Section__c-Section Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Section__c-Section Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2119,
+            "modifiedTime": 1526458563776,
+            "changeTime": 1526458563776,
+            "contentHash": "54a7b80997910d616a783cd59dc8aa61af76a61b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Shift__c-Shift Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Shift__c-Shift Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3344,
+            "modifiedTime": 1526458563779,
+            "changeTime": 1526458563779,
+            "contentHash": "848105dae76605377659a417cab93111d8486318",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Staff__c-Staff Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Staff__c-Staff Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4384,
+            "modifiedTime": 1526458563784,
+            "changeTime": 1526458563784,
+            "contentHash": "a93ab3544e62d3ff1f3049e7aef479d72211b6d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Staff_on_Shift__c-Staff on Shift Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/layouts/Staff_on_Shift__c-Staff on Shift Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2067,
+            "modifiedTime": 1526458563787,
+            "changeTime": 1526458563787,
+            "contentHash": "f480b1987ac69fccb83348d7b230148ee5965338",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1526458563879,
+            "changeTime": 1526458563879,
+            "contentHash": "156d644a2f88a8f538221b27365c2518fbe1c5e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Area__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Area__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1526458563794,
+            "changeTime": 1526458563794,
+            "contentHash": "08402ea6a8251d51aa83f04d14cb5a30b36eb92a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Area__c/Area__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Area__c/Area__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2048,
+            "modifiedTime": 1526458563794,
+            "changeTime": 1526458563794,
+            "contentHash": "d6df53ad3b669285ed7cb8f6324447d0aa7646dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Area__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Area__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526458563794,
+            "changeTime": 1526458563794,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Area__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Area__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1526458563794,
+            "changeTime": 1526458563794,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1526458563813,
+            "changeTime": 1526458563813,
+            "contentHash": "db83ce71a53ef3ef6ca8fae0926caea35ccfdbad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/Booth__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/Booth__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2027,
+            "modifiedTime": 1526458563809,
+            "changeTime": 1526458563809,
+            "contentHash": "9b221eaa05d7409f3ca82939a4e30f2070c0382b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1526458563813,
+            "changeTime": 1526458563813,
+            "contentHash": "7070c4cbc32b3bc9cb0c1a6fac2fb64b9733f0e1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Booth_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Booth_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1526458563810,
+            "changeTime": 1526458563810,
+            "contentHash": "a38208f5792da9abb15fa344433715c7e64727e9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Briefing__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Briefing__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 348,
+            "modifiedTime": 1526458563811,
+            "changeTime": 1526458563811,
+            "contentHash": "f9ec3764b77050c2df8708d34db2e01b4a1a9d29",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Cloud_Focus__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Cloud_Focus__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 471,
+            "modifiedTime": 1526458563811,
+            "changeTime": 1526458563811,
+            "contentHash": "91f241d860a8d1e1046a989f2345239050bb1243",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 394,
+            "modifiedTime": 1526458563811,
+            "changeTime": 1526458563811,
+            "contentHash": "26ec9e21b90c2a7dc8d451745248410cc3c9b2e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Industry__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Industry__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 468,
+            "modifiedTime": 1526458563812,
+            "changeTime": 1526458563812,
+            "contentHash": "ffbc03a6e55c695eae19580cac55ec85c4e39d42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/PMM__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/PMM__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 540,
+            "modifiedTime": 1526458563812,
+            "changeTime": 1526458563812,
+            "contentHash": "f963ec41a3e1046f49bdbd4e8e787a02bbd5c57c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Required_Function__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Required_Function__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 532,
+            "modifiedTime": 1526458563813,
+            "changeTime": 1526458563813,
+            "contentHash": "0a6657d8c3aa054b0ca15fda44731128de63542d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Section__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/fields/Section__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 581,
+            "modifiedTime": 1526458563813,
+            "changeTime": 1526458563813,
+            "contentHash": "25ca7b5b319338122d014779b4d1df63ee5aff8e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526458563813,
+            "changeTime": 1526458563813,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Booth__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 485,
+            "modifiedTime": 1526458563813,
+            "changeTime": 1526458563813,
+            "contentHash": "f56f30fdca3eb02bc4517e85eafbcbf4b2ccb724",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1526458563828,
+            "changeTime": 1526458563828,
+            "contentHash": "d72a5b7a3f29bb5c523acbb6d38d1185d7d963cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c/Section__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c/Section__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1985,
+            "modifiedTime": 1526458563828,
+            "changeTime": 1526458563828,
+            "contentHash": "6221b943462f264c66f930ce74f3f3208fa4e4a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526458563828,
+            "changeTime": 1526458563828,
+            "contentHash": "8f5af873dfc0faa6b3a0a8ddbf8128f3ad9ade77",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c/fields/Area__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c/fields/Area__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 588,
+            "modifiedTime": 1526458563828,
+            "changeTime": 1526458563828,
+            "contentHash": "7278db5894c1d75012c9afda7040962629d0349a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526458563829,
+            "changeTime": 1526458563829,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Section__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1526458563829,
+            "changeTime": 1526458563829,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1526458563842,
+            "changeTime": 1526458563842,
+            "contentHash": "e38f7ae138d5b36780cca6014483114e33d579c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/Shift__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/Shift__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2066,
+            "modifiedTime": 1526458563840,
+            "changeTime": 1526458563840,
+            "contentHash": "15d375c9163f84a95aa48d5d6d80055e0f6f21a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1526458563842,
+            "changeTime": 1526458563842,
+            "contentHash": "fc3913a437df55b9483a73c9084e564a26cb1b0a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields/Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields/Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 341,
+            "modifiedTime": 1526458563840,
+            "changeTime": 1526458563840,
+            "contentHash": "f7031e6ed63fe8b7780fa5ab8ebc7bc42489b259",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields/End__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields/End__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 339,
+            "modifiedTime": 1526458563841,
+            "changeTime": 1526458563841,
+            "contentHash": "2963e9b57859331f843d9aa94e56c1f86c030486",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields/Pod__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields/Pod__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 528,
+            "modifiedTime": 1526458563841,
+            "changeTime": 1526458563841,
+            "contentHash": "09cf84bfda2df69bfc1b3c2ce9237fb23eed272b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields/Shift_Order__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields/Shift_Order__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1526458563841,
+            "changeTime": 1526458563841,
+            "contentHash": "4b3413bc34bf1111840d919023f05cc8d173555c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields/Start__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/fields/Start__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 343,
+            "modifiedTime": 1526458563842,
+            "changeTime": 1526458563842,
+            "contentHash": "57f0d227eb8f7f454e17b1f1c06926ab16134c6f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526458563842,
+            "changeTime": 1526458563842,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Shift__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 355,
+            "modifiedTime": 1526458563842,
+            "changeTime": 1526458563842,
+            "contentHash": "8e83f43a9b2910710677d5ee029eae7db1adfb6b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1526458563867,
+            "changeTime": 1526458563867,
+            "contentHash": "37cc3d35278d3a0e16a43ded09734cd7929d46ac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/Staff__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/Staff__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2809,
+            "modifiedTime": 1526458563863,
+            "changeTime": 1526458563863,
+            "contentHash": "9213fcd898ed0e29de50cc04609eb9a8f00358d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1526458563867,
+            "changeTime": 1526458563867,
+            "contentHash": "3e5b4cf8c4338649964be2d34b2f7819fac3b70a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Available__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Available__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1526458563864,
+            "changeTime": 1526458563864,
+            "contentHash": "58a87154f7d725e4555d76966e1012dec527a351",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Cloud__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Cloud__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 466,
+            "modifiedTime": 1526458563864,
+            "changeTime": 1526458563864,
+            "contentHash": "1112999e7d30690a2ab6aacd98e6554ceba5b30a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1526458563864,
+            "changeTime": 1526458563864,
+            "contentHash": "2cca474a11fe69efa2b2a67d352ae6905c99bfea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/First_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1526458563865,
+            "changeTime": 1526458563865,
+            "contentHash": "be8f3eb8d5a845189f82936cdcd6c8d644fe28d8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Function__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Function__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 428,
+            "modifiedTime": 1526458563865,
+            "changeTime": 1526458563865,
+            "contentHash": "7f40478224f0b79b985fe5ec5a63a3f7ce7cc276",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Industry__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Industry__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 476,
+            "modifiedTime": 1526458563866,
+            "changeTime": 1526458563866,
+            "contentHash": "d4522213423a8aff74615e9aee400b4dad39e289",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Last_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 362,
+            "modifiedTime": 1526458563866,
+            "changeTime": 1526458563866,
+            "contentHash": "fa9ca3edb350ab62551b947f96c62c194bfcc8b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Manager__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Manager__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 495,
+            "modifiedTime": 1526458563866,
+            "changeTime": 1526458563866,
+            "contentHash": "f6a709bd735caadc9a7e4ce1683c777f56e87baf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Phone__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 305,
+            "modifiedTime": 1526458563866,
+            "changeTime": 1526458563866,
+            "contentHash": "2a31a0600201166beb5798a9f209add1724f5747",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Shift_Constraints__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/Shift_Constraints__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2387,
+            "modifiedTime": 1526458563867,
+            "changeTime": 1526458563867,
+            "contentHash": "996fe273152a8f225c76345734c7b4e54b851dc5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/is_manager__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/fields/is_manager__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1526458563867,
+            "changeTime": 1526458563867,
+            "contentHash": "2ff70ef767703e9b9673b0dba058512cc8c20c19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526458563867,
+            "changeTime": 1526458563867,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 470,
+            "modifiedTime": 1526458563868,
+            "changeTime": 1526458563868,
+            "contentHash": "16839cb52b7bb5623dbf70df59a050a4c9015762",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1526458563881,
+            "changeTime": 1526458563881,
+            "contentHash": "1121d5a846d8915dda4d2b4dcea30928ccde5459",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/Staff_on_Shift__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/Staff_on_Shift__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2065,
+            "modifiedTime": 1526458563880,
+            "changeTime": 1526458563880,
+            "contentHash": "a3722a8fce0c9ae9bef5e674fffd83b848e0006a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1526458563880,
+            "changeTime": 1526458563880,
+            "contentHash": "753164762b0d7f837f5ae722117c804c6637d50f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/fields/Shift__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/fields/Shift__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 586,
+            "modifiedTime": 1526458563880,
+            "changeTime": 1526458563880,
+            "contentHash": "c5c9b2e497bfbc376be8a31871f9c1c39c8fa6e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/fields/Staff__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/fields/Staff__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 588,
+            "modifiedTime": 1526458563880,
+            "changeTime": 1526458563880,
+            "contentHash": "1f139a02848e3ea91d5ef5a99841c03f69170ffd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1526458563881,
+            "changeTime": 1526458563881,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/objects/Staff_on_Shift__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1526458563881,
+            "changeTime": 1526458563881,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1526458563896,
+            "changeTime": 1526458563896,
+            "contentHash": "9396791ad2e6f1b7c75035f8297246bebfcc77fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Area__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Area__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1526458563885,
+            "changeTime": 1526458563885,
+            "contentHash": "d50e1146086572c148512d11157e7f0b600961f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Booth__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Booth__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1526458563887,
+            "changeTime": 1526458563887,
+            "contentHash": "9ff1a260e3ae7df8d22186bf3afdb41420f59c9e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Section__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Section__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1526458563889,
+            "changeTime": 1526458563889,
+            "contentHash": "d11f9b12a474049d7e282799fde831e7627ba434",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Shift__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Shift__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1526458563891,
+            "changeTime": 1526458563891,
+            "contentHash": "27ae16900e378cc5cff484561347e8963cd32234",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Staff__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Staff__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1526458563893,
+            "changeTime": 1526458563893,
+            "contentHash": "6e6ce36238c68c3363a64744a7072e1a6ec83ae1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Staff_on_Shift__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/Staff_on_Shift__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1526458563894,
+            "changeTime": 1526458563894,
+            "contentHash": "b2a6f113f74ff2d3c1b9811ab7baa4a2579b0c54",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/shift_planner.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner/force-app/main/default/tabs/shift_planner.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 320,
+            "modifiedTime": 1526458563896,
+            "changeTime": 1526458563896,
+            "contentHash": "8a53bae2354ae86ef7c36be3e08ae44f9372b39c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tbirke/Documents/88_dev/eclipse/event-planner",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tbirke/Documents/88_dev/eclipse/event-planner",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1526458974160,
+            "changeTime": 1526458974160,
+            "contentHash": "5b938a77e10f09400fd5b0cc439211b17dc2d904",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

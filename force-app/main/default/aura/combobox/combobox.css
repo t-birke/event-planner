@@ -1,0 +1,14 @@
+.THIS .yellow {
+    color: #ff9a3c;
+}
+
+.THIS .red {
+    color: #c23934;
+    font-weight: 600;
+}
+
+.THIS .deepred {
+    color: #c23934;
+    background-color: #ffdde1;
+    font-weight: 700;
+}

@@ -1,0 +1,9 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+	<lightning:tabset class="slds-p-around_medium">
+        <lightning:tab label="Overview" onactive="{!c.handleActive}" id="overview" />
+        <lightning:tab label="Staffing Skills" onactive="{!c.handleActive}" id="skills" />
+        <lightning:tab label="Staffing Industry" onactive="{!c.handleActive}" id="industry" />
+        <lightning:tab label="Staffing Constraints" onactive="{!c.handleActive}" id="constraints" />
+        <lightning:tab label="Assign Shifts" onactive="{!c.handleActive}" id="assign" />
+    </lightning:tabset>
+</aura:component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#FFCA00</headerColor>
+        <logo>CEBITLogowei</logo>
+        <logoVersion>1</logoVersion>
+    </brand>
+    <description>Plan Cebit Shifts</description>
+    <formFactors>Large</formFactors>
+    <label>Cebit Shift Planner</label>
+    <navType>Standard</navType>
+    <tab>shift_planner</tab>
+    <tab>Area__c</tab>
+    <tab>Section__c</tab>
+    <tab>Booth__c</tab>
+    <tab>Shift__c</tab>
+    <tab>Staff__c</tab>
+    <tab>Staff_on_Shift__c</tab>
+    <tab>standard-report</tab>
+    <uiType>Lightning</uiType>
+    <utilityBar>Cebit_Shift_Planner_UtilityBar</utilityBar>
+</CustomApplication>

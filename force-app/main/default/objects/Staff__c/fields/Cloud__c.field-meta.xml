@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cloud__c</fullName>
+    <externalId>false</externalId>
+    <label>Cloud</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>Skill</valueSetName>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>
